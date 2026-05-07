@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/dc banner v2.jpg
-coverY: 0
+cover: .gitbook/assets/full-1080.png
+coverY: 7.100609951845907
 ---
 
 # Welcome
@@ -16,7 +16,7 @@ Feel free to create a ticket on our Discord server if you are unable to locate t
 
 #### You can check the below listed link too for more info:
 
-{% embed url="https://errorhub.tebex.io" %}
+{% embed url="https://errorhub.store/" %}
 CHECKOUT OUR FIVEM STORE
 {% endembed %}
 
